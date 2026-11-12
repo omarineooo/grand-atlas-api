@@ -1,0 +1,60 @@
+{
+  "units": [
+    {
+      "id": 1,
+      "title": "Apartment at Palm Hills New Cairo",
+      "developer": "Palm Hills Developments",
+      "project": "Palm Hills New Cairo",
+      "zone": "New Cairo",
+      "price": 9500000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 180,
+      "status": "Available",
+      "description": "A bright, modern apartment with open living spaces and quiet garden views.",
+      "img": "https://picsum.photos/seed/unit1/720/540"
+    },
+    {
+      "id": 2,
+      "title": "Standalone Villa at Palm Hills New Cairo",
+      "developer": "Palm Hills Developments",
+      "project": "Palm Hills New Cairo",
+      "zone": "New Cairo",
+      "price": 32000000,
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "area": 520,
+      "status": "Available",
+      "description": "A private standalone villa with a generous garden and refined finishes.",
+      "img": "https://picsum.photos/seed/unit2/720/540"
+    },
+    {
+      "id": 3,
+      "title": "Chalet at Hacienda Bay",
+      "developer": "Palm Hills Developments",
+      "project": "Hacienda Bay",
+      "zone": "North Coast",
+      "price": 12000000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 120,
+      "status": "Sold",
+      "description": "A seaside chalet steps from the lagoon, designed for relaxed summer living.",
+      "img": "https://picsum.photos/seed/unit3/720/540"
+    },
+    {
+      "id": 4,
+      "title": "Townhouse at Badya",
+      "developer": "Palm Hills Developments",
+      "project": "Badya",
+      "zone": "6th of October",
+      "price": 17500000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 260,
+      "status": "Available",
+      "description": "A family townhouse in a fully integrated community with parks and amenities.",
+      "img": "https://picsum.photos/seed/unit4/720/540"
+    }
+  ]
+}
